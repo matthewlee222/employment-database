@@ -1,3 +1,3 @@
 # Employment Database
 
-This project creates an employment database for UC Berkeley students seeking employment. The tools used include MariaDB and Docker to deploy a working web application.
+This project builds an employment database to support UC Berkeley students in their job search, using MariaDB and Docker to deploy a functional web application.
